@@ -15,9 +15,9 @@ If a **human is detected**, the system automatically **captures an image** and *
 
 ## 📸 Sample Output
 
-> Add your screenshots into a folder like `images/` and update the file names below.
 
-![Human, Animal & Object Detection](images/detection1.jpg)
+
+![Human, Animal & Object Detection](detection1.jpg)
 ![Multiple Humans & Objects](images/detection2.jpg)
 
 ---
