@@ -7,9 +7,9 @@ import threading
 # ------------------------------
 # 📨 Email Setup
 # ------------------------------
-sender_email = "sunny.784161@gmail.com"
+sender_email = "123@gmail.com"
 app_password = "gszx ssfy fjyg txbo" # 🔐 Use your Gmail App Password
-receiver_email = "sunny.784161@gmail.com"
+receiver_email = "123@gmail.com"
 
 yag = yagmail.SMTP(user=sender_email, password=app_password)
 
@@ -105,4 +105,5 @@ while True:
 # Cleanup
 cap.release()
 cv2.destroyAllWindows()
+
 
