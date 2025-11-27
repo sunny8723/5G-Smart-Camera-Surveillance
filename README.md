@@ -18,7 +18,7 @@ If a **human is detected**, the system automatically **captures an image** and *
 
 
 ![Human, Animal & Object Detection](detection1.jpg)
-![Multiple Humans & Objects](images/detection2.jpg)
+![Multiple Humans & Objects](detection2.jpg)
 
 ---
 
